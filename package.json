@@ -15,8 +15,6 @@
   "license": "Apache-2.0",
   "homepage": "https://github.com/wlk/phaser-typescript-boilerplate",
   "devDependencies": {
-    "typescript": "^1.7.5",
-    "tslint": "^3.3.0",
     "webpack": "^1.12.12",
     "webpack-dev-server": "^1.14.1"
   }
