@@ -1,3 +1,5 @@
+This project is indented to help everyone with getting started with Phaser + TypeScript game development, once you download it you are ready to start right away.
+
 # Usage
 
 1. Download the project: https://github.com/wlk/phaser-typescript-boilerplate/archive/master.zip
