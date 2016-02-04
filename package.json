@@ -12,7 +12,7 @@
     "url": "https://github.com/wlk/phaser-typescript-boilerplate"
   },
   "author": "Wojciech Langiewicz <wlangiewicz@gmail.com> (http://www.wlangiewicz.com/)",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "homepage": "https://github.com/wlk/phaser-typescript-boilerplate",
   "devDependencies": {
     "webpack": "^1.12.12",
