@@ -5,11 +5,7 @@ class SimpleGame {
     cursors:Phaser.CursorKeys;
 
     constructor() {
-        this.game = new Phaser.Game(800, 600, Phaser.AUTO, "content", {
-            preload: this.preload,
-            create: this.create,
-            update: this.update
-        });
+        this.game = new Phaser.Game(800, 600, Phaser.AUTO, "content", this);
     }
 
     preload() {
